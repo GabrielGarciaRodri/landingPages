@@ -33,7 +33,7 @@ body{
     grid-area: titulo;
 }
 .item_1 h1{
-    font-size: 7.5em;
+    font-size: 7em;
     line-height: 1;
     font-weight: normal;
     color: var(--color-ternary);
